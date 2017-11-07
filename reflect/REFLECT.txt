@@ -1,0 +1,7 @@
+Name: Brian Jordan
+NetID: bjj17
+Hours Spent: 20
+Consulted With: Scott McConnell, Luis Antillon, Craig Joseph Keim, TAs
+Resources Used: None
+Difficulty level: 7
+Impressions: I thought the assignment taught the concept of percolation well.  Although the analysis took a while, it helped understand the advantages and disadvantages of each approach.
